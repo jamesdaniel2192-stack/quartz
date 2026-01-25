@@ -1,0 +1,24 @@
+
+
+![[Gemini_Generated_Image_14fae314fae314fa.png]]
+
+Captain Asha Sebarial, is easily the best character in this whole RPG. 
+
+Captain Sebarial is a pirate who classified himself as a "type 2 invested entity". [[Kael]] couldn't sense any spren around him, and Captain Sebarial told Kael that's because he's more like a spren than a human, and spren can't attract spren. The party knows he is from another world, but he hasn't admitted which planet he is from. They also know he is incredibly ancient, as Sebarial himself has confirmed this, and several of the party's spren have commented on the age of Sebarial. 
+
+Captain Sebarial frequently comments that the party are "his favorite people" and that he loves doing business with them. 
+
+The party has a spanreed connected to Sebarial, although they haven't used it yet. This spanreed is in [[Gavlin]]'s pack. 
+
+**Party's encounters with Sebarial:**
+
+* [[Kael]] once cleaned the decks of Captain Sebarial's ships in the hopes that would pay for a trip from [[Vedenar]] to [[Dumadari]]. It worked, but the party ended up stealing a ship. 
+* Captain Sebarial caught up with [[Nucko]] and [[Theren]] in a Kharbranthian square and confronted them about stealing [[Star]]'s ship and cargo. He able to trap Theren in a mighty grip and slapped the living shit out of Theren for ages. He then picked up Nucko and said "the best way to kill a radiant is to keep stabbing them until they're out of light". He then stabbed Nucko a few times in the stomach. 
+	* Theren and Nucko were able to get away, but they negotiated some pretty favorable terms for selling the firemoss they obtained from [[Vedenar]]. Sebarial promised them 2000 marks, that he would cover [[Jamma]]'s wages for the month they were in Kharbranth, and that he would cover the fee to repair the docks.
+		* Theren originally got naming rights to naming the repaired docks, but when Sebarial paid off this cost, the naming rights reverted to him. He named it the [[Suck it Theren Docks]].
+* Sebarial met the party in [[Gavlin's Lab]] and "paid" Theren the money he owed them (although the party found out later that they were paid in rocks.). He told them he was looking for them and had to pay them for the sale of the firemoss. He then mentioned some parshmen he saw imprisoned in the basement. 
+	* During this encounter Sebarial had actually been hired by [[The Muffin Man]] to lure them down to the basement where he could fight them. 
+* After the party fought the Muffin Man, [[Dahl]], and [[Yelig-Nar]], he found the party in the basement of the conclave and marveled at their success. He told the party that he had been hired by the Muffin Man, and while they were upset he would do this, he tried to calm down the party by telling them that he knew they could take them.
+	* Sebarial told the party he knew nothing of the Dahl & Yelig-Nar attack, and told them he was glad they were ok. 
+	* Sebarial then offered the party a job. He said he had been contracted by the [[Ghostbloods]] to steal a copy of the Diagram and that he needed them to sneak in to [[King Taravangian]]'s private office. 
+	* He said he would pay the party 1000 marks and that he would pay 500 upfront, which he did. 

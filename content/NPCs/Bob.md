@@ -1,0 +1,2 @@
+
+A childhood acquaintance of [[Theren]] and a member of the [[Vedenar]] military. He was the one who informed Theren of his family's deaths in the Veden civil war - he said that both of his brothers and his father were murdered. He also told Theren that his house had fallen and that [[Marren Vethar]] had taken the high prince title. 
