@@ -111,4 +111,5 @@ Kael paused, looking back at the man who had known him since he was a babe. His 
 
 * Kael was the first player to swear the oaths - swearing it in his first fight with [[Shai]] in the Envisager hideout, bonding with his spren, [[Cadenza]].
 * After the adventure at the [[Envisagers]] hideout, Kael got tutoring in the sword from [[Jarro]]. 
-* Kael was a voice of reason when the party interacted wtih an old 
+* Kael was a voice of reason when the party interacted with an old drunk man and his daughter, helping to dissuade [[Theren]] and [[Nucko]] from tormenting them too much. 
+* In Kharbranth, Jarro persuaded Kael to follow him in looking for the Envisagers
