@@ -119,4 +119,7 @@ Kael paused, looking back at the man who had known him since he was a babe. His 
 	* Together, Kael and Jarro were able to defeat Elias and Kael entombed both his father and his shardblade. 
 	* Kael has not told the rest of the party Jarro's involvement with the Envsiagers. 
 	* Kael helped Nucko and Theren try to sneak in to the Palanaeum to try and speak to [[Jasnah Kholin]], but Theren ultimately botched the conversation, and Kael got rather heated in that conversation before being pulled away from guards. 
-	* Kael assisted the party in the battle of the Pa
+	* Kael assisted the party in the battle of the Palanaeum and slew his first [[WhiteSpine]] in this battle. 
+	* Like the rest of the party Kael took a few injuries in the fight against [[Yelig-Nar]]. He had both biceps sliced open, before healing himself after the fight. 
+	* In the King Taravangian heist Kael was disguised as a Parshmen when he was asked to do some chores helping some ardents set up for a gala. He was sent to move some boxes to a basement, when he found a room of beds full of humans having their blood drained. 
+		* 
