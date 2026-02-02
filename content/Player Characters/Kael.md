@@ -122,4 +122,6 @@ Kael paused, looking back at the man who had known him since he was a babe. His 
 	* Kael assisted the party in the battle of the Palanaeum and slew his first [[WhiteSpine]] in this battle. 
 	* Like the rest of the party Kael took a few injuries in the fight against [[Yelig-Nar]]. He had both biceps sliced open, before healing himself after the fight. 
 	* In the King Taravangian heist Kael was disguised as a Parshmen when he was asked to do some chores helping some ardents set up for a gala. He was sent to move some boxes to a basement, when he found a room of beds full of humans having their blood drained. 
-		* 
+		* When interacting with a human male in the room, he heard the following death rattle: 
+			* "I killed the man who made me, and now his shadow walks ahead of me, smiling. She burns to control. He breaks to be free. Only one of them will be empty when the ash settles."
+				* It can be presumed that this references Kael specifically, his role in killing his father, and perhaps Shai - who could "Elias' shadow"
