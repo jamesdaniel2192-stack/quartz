@@ -112,6 +112,11 @@ Kael paused, looking back at the man who had known him since he was a babe. His 
 * Kael was the first player to swear the oaths - swearing it in his first fight with [[Shai]] in the Envisager hideout, bonding with his spren, [[Cadenza]].
 * After the adventure at the [[Envisagers]] hideout, Kael got tutoring in the sword from [[Jarro]]. 
 * Kael was a voice of reason when the party interacted with an old drunk man and his daughter, helping to dissuade [[Theren]] and [[Nucko]] from tormenting them too much. 
-* In Kharbranth, Jarro persuaded Kael to follow him in looking for the Envisagers, and it turned out that Jarro was a kind of double agent for the Envisagers. Kael reunited with his long lost father, [[Elias]]. 
+* **Kharbranth**
+	* In Kharbranth, Jarro persuaded Kael to follow him in looking for the Envisagers, and it turned out that Jarro was a kind of double agent for the Envisagers. Kael reunited with his long lost father, [[Elias]]. 
 	* Elias and Kael couldn't come to an agreement on reconciliation, so the two ended up dueling. Kael swore his second ideal during this fight, but even with his new abilities he was a little outmatched in fighting his father (who had a shardblade). 
-	* Kael made a passionate plea to Jarro to help him, and with some incredible leadership 
+	* Kael made a passionate plea to Jarro to help him, and with some incredible leadership rolls, Kael was able to persuade Jarro to swear the first ideal of the knights radiant and he summoned a shardblade to protect Kael. 
+	* Together, Kael and Jarro were able to defeat Elias and Kael entombed both his father and his shardblade. 
+	* Kael has not told the rest of the party Jarro's involvement with the Envsiagers. 
+	* Kael helped Nucko and Theren try to sneak in to the Palanaeum to try and speak to [[Jasnah Kholin]], but Theren ultimately botched the conversation, and Kael got rather heated in that conversation before being pulled away from guards. 
+	* Kael assisted the party in the battle of the Pa
