@@ -107,4 +107,8 @@ Kael paused, looking back at the man who had known him since he was a babe. His 
 "To free others."
 
 
-**Important Campaign Events**
+**Kael Campaign History**
+
+* Kael was the first player to swear the oaths - swearing it in his first fight with [[Shai]] in the Envisager hideout, bonding with his spren, [[Cadenza]].
+* After the adventure at the [[Envisagers]] hideout, Kael got tutoring in the sword from [[Jarro]]. 
+* Kael was a voice of reason when the party interacted wtih an old 
