@@ -10,4 +10,6 @@ The Muffin Man arrived in Kharbranth a few days after the party and immediately 
 
 The Muffin Man then created a plan to lure the party down to the Palanaeum basement, where he launched an attack on the party. His party was able to dispatch his whitespines and khornaks, which he was very angry about,  and they got around his traps to force him to flee the basement. 
 
-The party has just recently spotted him in [[King Taravangian]]'s throne room, where he is dressed in extremely fine clothing and apparently has been granted some kind of audience with the King. 
+The party interacted with him in [[King Taravangian]]'s throne room, where he was dressed in extremely fine clothing and had been granted some kind of audience with the King. Ravan ended up attacking King Taravangian and in the confusion he escaped the throne room and ran away. 
+
+After leaving the throne room he kidnapped [[Handsy]] and seemingly took him to [[Vedenar]]. He also hired [[Tink]] to spy on the party for him. 
