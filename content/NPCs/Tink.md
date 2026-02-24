@@ -6,3 +6,5 @@ Tink is an older Kharbranthian man that was hired by the [[The Muffin Man]] to s
 Tink doesn't seem "all there" mentally, but has a seething hatred for Chungledown Bim. His motivations seem to be driven by getting revenge on Chungledown, which is likely why he accepted this spying mission for only 8 marks. 
 
 He mentioned that Chungledown Bim slept with his wife and that Chungledown promised to "shit in his mouth". 
+
+When pressed by the party, he promised to help the party find the building where the Muffin Man is hiding [[Handsy]] in [[Vedenar]] in exchange for not killing him. 

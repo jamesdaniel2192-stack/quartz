@@ -1,0 +1,1 @@
+[[Tink]]'s enemy. He slept with Tink's wife and promised to shit in Tink's mouth. 
