@@ -3,4 +3,6 @@ Tink is an older Kharbranthian man that was hired by the [[The Muffin Man]] to s
 
 [[Nucko]] was able to find Tink and brought him out to the rest of the party where they questioned him for a while. [[Kael]] seemed intent on killing the old man, but [[Ravan]] stayed his hand and actually convinced Tink that [[Marren Vethar]] was an alias for his rival, [[Chungledown Bim]]
 
-Tink doesn't seem "all there" mentally, but has a seething hatred for Chungledown Bim. 
+Tink doesn't seem "all there" mentally, but has a seething hatred for Chungledown Bim. His motivations seem to be driven by getting revenge on Chungledown, which is likely why he accepted this spying mission for only 8 marks. 
+
+He mentioned that Chungledown Bim slept with his wife and that Chungledown promised to "shit in his mouth". 
