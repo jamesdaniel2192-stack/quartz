@@ -29,10 +29,14 @@ The party has a spanreed connected to Sebarial, although they haven't used it ye
 * While aboard The Void (Sebarial's ship), Sebarial seemingly set up traps in order to create situations where he could press the party into agreeing into owing him favors. 
 	* Gavlin
 		* Gavlin agreed to owe Sebarial a favor after Sebarial gave him information on the Diagram and their dealings in Vedenar
-		* This favor requires Gavlin to go to [[Klna]] in Thaylenah, where he was instructed to obtain a perfect gemstone at an auction a bunch of lighte
+		* This favor requires Gavlin to go to [[Klna]] in Thaylenah, where he was instructed to obtain a perfect gemstone at an auction a bunch of lighteyes were hosting.
+		* He told Gavlin to get the stone and bring it to him in New Natan. 
 	* Kael
 		* Kael did his best to try and free two captives on the Void, a woman named [[Blue]] and a captured Shin man named [[Taszo Son Clutio]]. 
 		* Unfortunately for Kael, Sebarial caught him trying to release his prisoners. In his rage he pinned Kael up against the wall and drained investiture from him as he swore his third ideal. When Kael wouldn't agree to his terms, Sebarial ran him through with his sword. Kael, with no other options, agreed to two "friendship" favors in exchange for his life and Taszo's life. Blue had somehow escaped from the prison. 
 	* [[Torin]]
 		* Sebarial set out what he called his mother's gold tooth, properly assuming that Torin's mink, [[Flick]] would steal the tooth. When Flick stole the tooth and gave it back to Torin, Sebarial pretended to be filled with rage and came to the top deck searching for the tooth. Flick tossed the tooth in the sea, and Torin was able to smooth talk his way out of any favors. 
-	 * 
+	 * Nucko
+		 * Nucko avoided all favor attempts from Sebarial. He got off clean!
+	* Ravan
+		* Ravan agreed to a favor if Sebarial would forgive the gambling debt of [[Dblar]] and allow Dblar to be their guide in Klna. 
