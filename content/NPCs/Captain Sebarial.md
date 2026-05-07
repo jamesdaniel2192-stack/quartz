@@ -26,4 +26,10 @@ The party has a spanreed connected to Sebarial, although they haven't used it ye
 * During the Veden civil ware, Gavlin did reach out to Sebarial asking him for information on if the Diagram would have any dealings in [[Vedenar]]. Sebarial promised to tell Gavlin what he knew about that, if Gavlin would would owe him a favor in the future. 
 	* This sparked a whole debacle where, shortly after the death of Theren, Sebarial kidnapped the party to invoke this favor 
 **Sebarial's Favors**
-* While aboard The Void (Sebarial's ship), Sebarial seemingly set up 
+* While aboard The Void (Sebarial's ship), Sebarial seemingly set up traps in order to create situations where he could press the party into agreeing into owing him favors. 
+	* Gavlin
+		* Gavlin agreed to owe Sebarial a favor after Sebarial gave him information on the Diagram and their dealings in Vedenar
+		* This favor requires Gavlin to go to [[Klna]] in Thaylenah, where he was instructed to obtain a perfect gemstone at an auction a bunch of lighte
+	* Kael
+		* Kael did his best to try and free two captives on the Void, a woman named [[Blue]] and a captured Shin man named [[Taszo Son Clutio]]. 
+		* Unfortunately for Kael, Sebarial caught him trying to release his prisoners. In his rage he pinned Kael up against the wall and drained investiture from him as he swore his third ideal. When Kael wouldn't agree to his terms, Sebarial ran him through with his sword. Kael, with no other options, agreed to two "friendship" favors in exchange for his life and 
