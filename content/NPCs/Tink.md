@@ -5,10 +5,12 @@ Tink is an older Kharbranthian man that was hired by the [[The Muffin Man]] to s
 
 Tink doesn't seem "all there" mentally, but has a seething hatred for Chungledown Bim. His motivations seem to be driven by getting revenge on Chungledown, which is likely why he accepted this spying mission for only 8 marks. 
 
-He mentioned that Chungledown Bim slept with his wife and that Chungledown promised to "shit in his mouth". 
+He mentioned, that Chungledown Bim slept with his wife and that Chungledown promised to "shit in his mouth". 
 
 When pressed by the party, he promised to help the party find the building where the Muffin Man is hiding [[Handsy]] in [[Vedenar]] in exchange for not killing him. 
 
 [[Ravan]] convinced Tink that [[Marren Vethar]] was actually Chungledown Bim and Tink swore vengeance on him that day. 
 
-When the party was involved with the Veden city war, Tink starting hunting Marren and eventually found him cornered by the party. He ran up to Marren and killed him 
+When the party was involved with the Veden city war, Tink starting hunting Marren and eventually found him cornered by the party. He ran up to Marren and killed him, earning his shardblade. 
+
+[[Theren]], consumed by rage and by the thrill chased after Tink and murdered him for stealing hsi father's shardblade. 
