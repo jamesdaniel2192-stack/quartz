@@ -27,7 +27,13 @@ Jarro entered into a relationship with [[Lia]] after [[Nucko]]'s burning down of
 
 Since the Envisagers fight and the fight in the Palanaeum basement, Jarro has been oddly quiet. He's spent a lot of time with Lia in the hospital while she recovers, and has spent a little time helping Theren train with the sword, although that was pretty short lived. When the party left to do their palace heist, they asked Jarro to be a contingency and come rescue them if they weren't back by the following morning. 
 
-After the heist, Jarro met the party at the [[Glyphpool]] and announced that it was time for him to leave. He and Lia decided to run away together, and he wanted to accept his journey as a radiant. As an Elsecaller his oaths are around reaching one's potential 
+After the heist, Jarro met the party at the [[Glyphpool]] and announced that it was time for him to leave. He and Lia decided to run away together, and he wanted to accept his journey as a radiant. As an Elsecaller his oaths are around reaching one's potential and he felt he could do that only by leaving the party and going with Lia. 
+
+He bequeathed each member of the party a gift upon his farewell: 
+
+Kael - A master duelist's sword
+Gavlin - Bomb fabrial schematics
+Ravan - 
 
 **Crazy Experiences for the One**
 
