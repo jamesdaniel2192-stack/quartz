@@ -1,0 +1,1 @@
+Dblar was a sailor on [[Captain Sebarial]]'s ship. He isn't the brightest or strongest, 
