@@ -1,0 +1,1 @@
+Shield is a Rayshadium that bonded with [[Torin]] while Torin was traveling seeking his brother. 
