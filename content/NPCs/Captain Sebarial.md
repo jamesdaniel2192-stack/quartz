@@ -22,3 +22,5 @@ The party has a spanreed connected to Sebarial, although they haven't used it ye
 	* Sebarial told the party he knew nothing of the Dahl & Yelig-Nar attack, and told them he was glad they were ok. 
 	* Sebarial then offered the party a job. He said he had been contracted by the [[Ghostbloods]] to steal a copy of the Diagram and that he needed them to sneak in to [[King Taravangian]]'s private office. 
 	* He said he would pay the party 1000 marks and that he would pay 500 upfront, which he did. 
+	* The party successfully steal the copy of the diagram and gave it back to Sebarial. He paid the rest of the outstanding marks and left with a large smile on his face. He told the party to never hesitate if they needed anything from him ever again. 
+* Eventually, Gavlin did reach out to Sebarial asking him for information 
