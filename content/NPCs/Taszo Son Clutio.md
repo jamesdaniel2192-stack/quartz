@@ -1,0 +1,1 @@
+Taszo met the party onboard [[Captain Sebarial]]'s ship. He is a Shin Stone Shaman who was tasked by the leaders 

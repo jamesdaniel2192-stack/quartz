@@ -7,4 +7,4 @@ He's been asked to do some things that he's clearly uncomfortable with, includin
 
 Rilano is present when [[Theren]] and Ravan approach King Taravangian in his throne room.  
 
-After the debacle in the throne room when Theren and Ravan attacked the king, Rilano 
+After the debacle in the throne room when Theren and Ravan attacked the king, Rilano triggered a hidden pathway where he and the king escaped. 
