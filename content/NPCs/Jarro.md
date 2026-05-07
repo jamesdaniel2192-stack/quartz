@@ -33,7 +33,11 @@ He bequeathed each member of the party a gift upon his farewell:
 
 Kael - A master duelist's sword
 Gavlin - Bomb fabrial schematics
-Ravan - 
+Ravan - A half-shard
+Nucco - recharged his health metal-mind
+Theren - additional spores 
+
+He also correctly predicted that Nucko would try to steal something from his pack. When Nucko was successful he pulled a portrait of the party that Jarro commissioned with a note taunting Nucko for stealing it from him. 
 
 **Crazy Experiences for the One**
 
