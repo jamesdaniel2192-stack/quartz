@@ -6,3 +6,5 @@ Rilano is [[Gavlin]] old master and mentor. He recruited and taught Gavlin basic
 He's been asked to do some things that he's clearly uncomfortable with, including trying to recruit Gavlin to the Diagram and trying to drain [[Ravan]]'s blood to try and trigger a death rattle. After those events he approached Gavlin and apologized and gave him permanent access to [[Gavlin's Lab]] and promised it would be fully stocked and replenished with materials. 
 
 Rilano is present when [[Theren]] and Ravan approach King Taravangian in his throne room.  
+
+After the debacle in the throne room when Theren and Ravan attacked the king, Rilano 

@@ -9,4 +9,4 @@ Merren has claimed that Theren and his father were "oppressive" to him and his f
 
 Merren has asked [[King Taravangian]] for an alliance with his house in an attempt to solidify his power. 
 
-Merren eventually made his way back to [[Vedenar]] to help his allies in the civil war. The party found him and absolutely wrecked him. [[Kael]] trapped him in a sinkhole and the party wailed on him until [[Tink]]
+Merren eventually made his way back to [[Vedenar]] to help his allies in the civil war. The party found him and absolutely wrecked him. [[Kael]] trapped him in a sinkhole and the party wailed on him until [[Tink]], thinking that Merren was Chungledown Bim, made the killing blow winning Merren's (Theren's father's) shardblade. 
