@@ -8,3 +8,7 @@ Tink doesn't seem "all there" mentally, but has a seething hatred for Chungledow
 He mentioned that Chungledown Bim slept with his wife and that Chungledown promised to "shit in his mouth". 
 
 When pressed by the party, he promised to help the party find the building where the Muffin Man is hiding [[Handsy]] in [[Vedenar]] in exchange for not killing him. 
+
+[[Ravan]] convinced Tink that [[Marren Vethar]] was actually Chungledown Bim and Tink swore vengeance on him that day. 
+
+When the party was involved with the Veden city war, Tink starting hunting Marren and eventually found him cornered by the party. He ran up to Marren and killed him 
