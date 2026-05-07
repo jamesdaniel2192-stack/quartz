@@ -33,5 +33,6 @@ The party has a spanreed connected to Sebarial, although they haven't used it ye
 	* Kael
 		* Kael did his best to try and free two captives on the Void, a woman named [[Blue]] and a captured Shin man named [[Taszo Son Clutio]]. 
 		* Unfortunately for Kael, Sebarial caught him trying to release his prisoners. In his rage he pinned Kael up against the wall and drained investiture from him as he swore his third ideal. When Kael wouldn't agree to his terms, Sebarial ran him through with his sword. Kael, with no other options, agreed to two "friendship" favors in exchange for his life and Taszo's life. Blue had somehow escaped from the prison. 
-	* Torin
-		* Sebarial set out what he called his mother's gold tooth, assuming that Torin's mink, [[Flick]] would 
+	* [[Torin]]
+		* Sebarial set out what he called his mother's gold tooth, properly assuming that Torin's mink, [[Flick]] would steal the tooth. When Flick stole the tooth and gave it back to Torin, Sebarial pretended to be filled with rage and came to the top deck searching for the tooth. Flick tossed the tooth in the sea, and Torin was able to smooth talk his way out of any favors. 
+	 * 
