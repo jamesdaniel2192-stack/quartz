@@ -4,4 +4,4 @@ The party met Dblar when he invited them to participate in cremling races! [[Rav
 
 While the party was dealing with the fallout of the events in [[Klna]], Ravan tasked Dblar with sailing the party's ship up north near where at the temple where the perfect gemstone that [[Gavlin]] was tasked with obtaining is located. 
 
-Dblar ultimately was successful in sailing the ship to the 
+Dblar ultimately was successful in sailing the ship to a beach near the Klna temple, but when he was close to the beach he spotted a hog and wanted to catch it as a pet. He jumped overboard, swam to the beach and was able to get his hog. The ship then crashed into another boat which turned out to the ship of some Thaylen theives and criminals. It turns out the Thaylen navy had been hunting this vessel for some time, and when Deblar single handily took them out they gave him a letter of marque and a special accelerator fabrial 
