@@ -26,3 +26,6 @@ His most ambitious and conscious goal is the creation of a "universal translator
 	* Gavlin was instrumental in helping the Wind's Favor sail out of a highstorm and getting the party to [[Kharbranth]] safely. 
 * Gavlin was gifted an entire lab ([[Gavlin's Lab]]) from Rilano as a way to apologize for trying to get Gavlin to go against his morals. 
 * Gavlin was involved in the Veden civil war and tried to help [[Theren]] get his high princedom title back. 
+* Gavlin was kidnapped by [[Captain Sebarial]] to turn in his ''favor" by charging him to get a perfect gemstone from a small costal city named Klna. 
+* Gavlin has been contacted by [[Sja-anat]] to help free one of her "children" from the perfect gemstone in the temple of Klna. She offered him knowledge of one of her siblings, the unmade, in return. She also offered him the opportunity to enlighten Glimmer-in-doubt. 
+* Gavlin once helped [[Nucko]] retrieve his marks pouch in a burning building and was an absolute beast. He walked through flames, intense 
