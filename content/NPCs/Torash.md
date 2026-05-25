@@ -1,1 +1,3 @@
-Torash is the twin brother of [[Borash]] and was killed by [[Kael]]. 
+Torash is a Herdazian shardbearer and the twin brother of [[Borash]]. Torash had a lisp and was obsessed with being perceived as an alpha. While he was an adequate dueler, he wasn't any match for [[Kael]] and didn't last very long and Kael ultimately killed him in battle. 
+
+Not much is known about Torash, as he died before the party was able to get any information out of him. Based on information the party learned about Borash, it is safe to assume he was raised in Alethkar and learned to duel there. 
