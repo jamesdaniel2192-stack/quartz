@@ -7,4 +7,6 @@ The dark-eyes (influenced by Prawf) eventually rebelled and overthrew the lighte
 
 During a distraction Nucko rescued Stukov from his cage and left a illusion in his place. Nucko sneakily carried him back to the ship and Stukov convinced Nucko to contact his mercenary squad lead by [[Borash]]. Nucko thought he was negotiating well, but it turns out that the mercenary squad hated Stukov and Nucko ended up bringing the mercenary squad back to the city prematurely. 
 
-[[Torin]] took an instant dislike to Stukov and his racist, derogatory ways and as t
+[[Torin]] took an instant dislike to Stukov and his racist, derogatory ways and as tensions arised Torin ended up shooting Stukov several times. 
+
+Torin and Nucko were eventually discovered by the party and the darkeyes and they were forced to bring Stukov back to the town square. Stukov continue to spout racist nonsense and Torin shot Stukov in the leg, where Stukov bled out and died. 
