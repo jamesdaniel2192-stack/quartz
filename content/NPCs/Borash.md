@@ -6,4 +6,10 @@ Borash told Kael that he is fiercely protective of his brother, and has done muc
 
 Borash is a gay man, and has a crush on [[Nucko]]. 
 
-Borash's whole life philosophy is focused on being an alpha and provi 
+Borash's whole life philosophy is focused on being an alpha and proving that he is the greatest, strongest man of all time.
+
+Once the party caught up to his band of mercenaries in Klna; [[Kael]], [[Torin]], and [[Gavlin]] all fought him at once. Gavlin eventually left the skirmish to help other members of the party, but Borash was able to knock Kael unconscious before retreating. 
+
+Before retreating, he spit on Kael and told him that he was only leaving because his army was worthless, but that if he ever saw Kael again that he would make sure that Kael would be destroyed. 
+
+After leaving the docks Borash did recover the body and shards of his brother, Torash. 
