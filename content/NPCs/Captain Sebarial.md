@@ -2,9 +2,9 @@
 
 ![[Gemini_Generated_Image_14fae314fae314fa.png]]
 
-Captain Asha Sebarial, is easily the best character in this whole RPG. 
 
-Captain Sebarial is a pirate who classified himself as a "type 2 invested entity". [[Kael]] couldn't sense any spren around him, and Captain Sebarial told Kael that's because he's more like a spren than a human, and spren can't attract spren. The party knows he is from another world, but he hasn't admitted which planet he is from. They also know he is incredibly ancient, as Sebarial himself has confirmed this, and several of the party's spren have commented on the age of Sebarial. 
+
+Captain Asha Sebarial is a pirate who classified himself as a "type 2 invested entity". [[Kael]] couldn't sense any spren around him, and Captain Sebarial told Kael that's because he's more like a spren than a human, and spren can't attract spren. The party knows he is from another world, but he hasn't admitted which planet he is from. They also know he is incredibly ancient, as Sebarial himself has confirmed this, and several of the party's spren have commented on the age of Sebarial. 
 
 Captain Sebarial frequently comments that the party are "his favorite people" and that he loves doing business with them. 
 
