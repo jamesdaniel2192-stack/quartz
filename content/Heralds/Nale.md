@@ -1,4 +1,3 @@
-https://coppermind.net/wiki/Nale
 
 **Campaign Notes**
 
