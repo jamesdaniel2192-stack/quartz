@@ -4,4 +4,6 @@ So he made a deal with Sebarial to transport him to New Natan, but in typical fa
 
 [[Kael]] eventually rescued Taszo from the hold of the Void and Taszo is currently helping the party in [[Klna]]. He struck up an agreement with the party to travel with them to the shattered plains and he requested some help in locating the missing honorblade as well. 
 
-While the party is dealing with the army at the gates of Klna, he is helping the darkeyes evacuate the city. 
+While the party is dealt with the army at the gates of Klna, he helped the darkeyes of Klna evacuate the city on a fleet of ships. 
+
+He accompanied the party to the temple of 
