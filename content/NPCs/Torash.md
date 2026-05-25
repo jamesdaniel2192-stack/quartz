@@ -1,0 +1,1 @@
+Torash is the twin brother of [[Borash]] and was killed by [[Kael]]. 

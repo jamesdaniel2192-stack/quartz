@@ -12,4 +12,4 @@ Once the party caught up to his band of mercenaries in Klna; [[Kael]], [[Torin]]
 
 Before retreating, he spit on Kael and told him that he was only leaving because his army was worthless, but that if he ever saw Kael again that he would make sure that Kael would be destroyed. 
 
-After leaving the docks Borash did recover the body and shards of his brother, Torash. 
+After leaving the docks Borash did recover the body and shards of his brother, Torash and retreated to an unknown location. 
