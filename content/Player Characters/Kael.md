@@ -125,3 +125,6 @@ Kael paused, looking back at the man who had known him since he was a babe. His 
 		* When interacting with a human male in the room, he heard the following death rattle: 
 			* "I killed the man who made me, and now his shadow walks ahead of me, smiling. She burns to control. He breaks to be free. Only one of them will be empty when the ash settles."
 				* It can be presumed that this references Kael specifically, his role in killing his father, and perhaps Shai - who could "Elias' shadow"
+	* Kael was involved with the Veden civil war. He became a squadleader and lead a pretty bad-ass group of soldiers.
+		* During this civil war, Kael became acquainted with [[Nergaoul]], the Thrill, and accept his power on more than one occasion. Eventually Kael was able to throw off the Thrill completely and was able to resist it's influence. 
+	* During the siege of Klna, Kael 
