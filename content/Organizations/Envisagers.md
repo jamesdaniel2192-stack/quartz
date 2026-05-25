@@ -4,4 +4,4 @@ The Envsiagers are a group who believes they can manifest radiant powers if they
 
 The party learned in [[Bavland]] that the Envsiagers have locations throughout Roshar, and their main location was in [[Kharbranth]]. 
 
-[[Kael]] and [[Jarro]] killed [[Elias]], the leader of the Envsiager group, and for the moment it is unclear the status of the remaining locations or the remaining cult members. 
+[[Kael]] and [[Jarro]] killed [[Elias]], the leader of the Envsiager group, and as of right now, it is unclear the status of the remaining locations or the remaining cult members. 
