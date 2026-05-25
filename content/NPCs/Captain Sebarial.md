@@ -1,4 +1,4 @@
-*Hey there - if you're reading this Ping James! You win a prize :D*
+
 
 ![[Gemini_Generated_Image_14fae314fae314fa.png]]
 
@@ -40,3 +40,5 @@ The party has a spanreed connected to Sebarial, although they haven't used it ye
 		 * Nucko avoided all favor attempts from Sebarial. He got off clean!
 	* Ravan
 		* Ravan agreed to a favor if Sebarial would forgive the gambling debt of [[Dblar]] and allow Dblar to be their guide in Klna. 
+
+*Hey there - if you're reading this Ping James! You win a prize :D*

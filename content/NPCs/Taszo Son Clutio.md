@@ -6,4 +6,4 @@ So he made a deal with Sebarial to transport him to New Natan, but in typical fa
 
 While the party is dealt with the army at the gates of Klna, he helped the darkeyes of Klna evacuate the city on a fleet of ships. 
 
-He accompanied the party to the temple of 
+He accompanied the party to the temple of Klna, but stayed behind on a nearby beach to help [[Dblar]] try and fix the ship.
