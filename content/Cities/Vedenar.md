@@ -4,7 +4,7 @@ The party spent less than one day in this city. They arrived to the city where a
 
 The party decided to sneak down to the Vedenar docks to get a boat and run away. While sneaking, [[Kael]] thought it would be sneaky if he put [[Jarro]] on his back to help Jaro stay quiet. While this happened, Kael and Jaro didn't notice a winehouse sign and it smacked into Jaro's head and knocked him off of Kael's shoulders. Thankfully no guards noticed. 
 
-[[Nucko]] tired to stealthily tear down a wanted poster of Theren, but he rolled a nat one and failed taking it down quietly. He started to attract the notice of some guards, but the party was able to sneak away without any other notice.
+[[Nucko the Button Thief]] tired to stealthily tear down a wanted poster of Theren, but he rolled a nat one and failed taking it down quietly. He started to attract the notice of some guards, but the party was able to sneak away without any other notice.
 
 As they continued their way down to the docks, the party then found that a muffin shop had been robbed and they saw a young man (who looked like a boy) running away from the shop. To distract the guards and to "enact justice" [[Ravan]] told the guards about the man and sent the guards after him. 
 * It should be noted here, that this was the start of the villain, [[The Muffin Man]]. See his wiki for more information. 

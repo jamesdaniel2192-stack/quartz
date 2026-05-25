@@ -2,4 +2,4 @@ Star is an employee or contractor of [[Captain Sebarial]]. She implied that her 
 
 Her and her crew attempted to steal from the party and [[The Wind's Favor]], but the party easily rebutted her attempts and quelled the attempted robbery. Star's crewmember, [[Jamma]] was recruited away from Star after this as well. 
 
-Star and her remaining crew disappeared after the party outran a highstorm, and her ship crashed into the back of The Wind's Favor at the [[Kharbranth]] docks. [[Nucko]] claimed her ship, and is now the captain of that ship.  
+Star and her remaining crew disappeared after the party outran a highstorm, and her ship crashed into the back of The Wind's Favor at the [[Kharbranth]] docks. [[Nucko the Button Thief]] claimed her ship, and is now the captain of that ship.  

@@ -11,7 +11,7 @@ Kharbranth is known for the quality of its hospitals, and people come from all o
 * [[Ravan]] Has been spending most of his time trying to find his mentor, [[Dahl]]. He found out that Dahl has spent some time in Kharbranth's administrative offices at the palinaum and that spearheaded the party's adventures in the conclave. 
 * [[Gavlin]]'s just been an artifabrian genius here and has spent most of his time in [[Gavlin's Lab]] making some really cool shit. 
 	* We did find out that Gavlin is something of a lady's man here, and has been able to get dates very easily here. 
-* [[Nucko]] and [[Theren]] did their famous button museum and button factory heist here. 
+* [[Nucko the Button Thief]] and [[Theren]] did their famous button museum and button factory heist here. 
 	* Nucko stole thousands of marks worth of old clothes and buttons from this factory
 	* Nucko almost sealed the deal with [[Lia]], but he was disguised as Jaro and he drugged Lia with some spiked wine.
 		* Lia later on hooked up with Jaro and they're kind dating? 

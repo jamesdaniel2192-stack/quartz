@@ -4,7 +4,7 @@ Borash is a Herdazian shardbearer and mercenary. His twin brother is [[Torash]],
 
 Borash told Kael that he is fiercely protective of his brother, and has done much to help his brother feel normal in the world they grew up in. Torash grew up with a lisp, so Borash spoke with that same lisp to help Torash feel normal. Once Borash found out that Torash was killed, he dropped the lisp and will no longer speak with that same lisp. 
 
-Borash is a gay man, and has a crush on [[Nucko]]. 
+Borash is a gay man, and has a crush on [[Nucko the Button Thief]]. 
 
 Borash's whole life philosophy is focused on being an alpha and proving that he is the greatest, strongest man of all time.
 

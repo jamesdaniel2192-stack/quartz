@@ -8,4 +8,4 @@ The party has had the following interactions at the Glyphpool:
 * The party decided to breed [[Handsy]] at the Glyphpool
 * The party found out that Leif was alive during the Day of Recreance at the Glyphpool
 * Kael got his first job at the Glyhpool and made a decent amount of money bartending and juggling during an event for [[The Yips Podcast]]. 
-* Jarro has had relations with multiple people including two ardents that [[Nucko]] set him up with while Nucko was disguised as Jarro
+* Jarro has had relations with multiple people including two ardents that [[Nucko the Button Thief]] set him up with while Nucko was disguised as Jarro

@@ -18,7 +18,7 @@ Later, Dahl went to confront the party with other members of the Diagram and the
 
 Eventually Dahl ingested a purple gem that contained the essence of [[Yelig-Nar]]. He bonded with the spren, and fought the party in the basement of the conclave. As the servant and Yelig-nar he was able to access 9 of the 10 surges and fought the party fiercely. He screamed at Ravan telling him that he would watch as he killed all his friends. 
 
-The fight was long and brutal; Dahl, as the servant as Yelig-nar, gave injuries to everyone in the party, and he was able to cut off Ravan's arm and caused a severe burn to one of [[Nucko]]'s eye that rendered him blind in that eye.  
+The fight was long and brutal; Dahl, as the servant as Yelig-nar, gave injuries to everyone in the party, and he was able to cut off Ravan's arm and caused a severe burn to one of [[Nucko the Button Thief]]'s eye that rendered him blind in that eye.  
 
 Dahl wasn't strong enough to fully bond with the spren, and after a few minutes of beating the shit out of the party, Dahl collapsed to the ground where his body was consumed by black smoke. 
 

@@ -111,7 +111,7 @@ Kael paused, looking back at the man who had known him since he was a babe. His 
 
 * Kael was the first player to swear the oaths - swearing it in his first fight with [[Shai]] in the Envisager hideout, bonding with his spren, [[Cadenza]].
 * After the adventure at the [[Envisagers]] hideout, Kael got tutoring in the sword from [[Jarro]]. 
-* Kael was a voice of reason when the party interacted with an old drunk man and his daughter, helping to dissuade [[Theren]] and [[Nucko]] from tormenting them too much. 
+* Kael was a voice of reason when the party interacted with an old drunk man and his daughter, helping to dissuade [[Theren]] and [[Nucko the Button Thief]] from tormenting them too much. 
 * **Kharbranth**
 	* In Kharbranth, Jarro persuaded Kael to follow him in looking for the Envisagers, and it turned out that Jarro was a kind of double agent for the Envisagers. Kael reunited with his long lost father, [[Elias]]. 
 	* Elias and Kael couldn't come to an agreement on reconciliation, so the two ended up dueling. Kael swore his second ideal during this fight, but even with his new abilities he was a little outmatched in fighting his father (who had a shardblade). 
@@ -127,4 +127,10 @@ Kael paused, looking back at the man who had known him since he was a babe. His 
 				* It can be presumed that this references Kael specifically, his role in killing his father, and perhaps Shai - who could "Elias' shadow"
 	* Kael was involved with the Veden civil war. He became a squadleader and lead a pretty bad-ass group of soldiers.
 		* During this civil war, Kael became acquainted with [[Nergaoul]], the Thrill, and accept his power on more than one occasion. Eventually Kael was able to throw off the Thrill completely and was able to resist it's influence. 
-	* During the siege of Klna, Kael 
+	* During the siege of Klna, Kael killed a shardbearer. [[Torash]], but was defeated by Torash's brother, [[Borash]]. Kael survived that defeat, but has a blood enemy in Borash now. 
+**Kael's Stone Statues**
+
+Kael has decided to create stone statues of memorable experiences wherever the party goes.
+
+At the docks of Klna - a statue memorial of [[Tasni]] defending the darkeyes from the oppression of the lighteyes: 
+![[Pasted image 20260525151516.png]]

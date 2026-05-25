@@ -10,7 +10,7 @@ The party actually hired Jamma away from star at a rate of 300 marks per month, 
 
 After the crew crashed into [[Kharbranth]] Jamma was responsible for getting both the Wind's favor and [[The Better Wind's Favor]] repaired as well as overseeing the sale of the firemoss. After he sold the firemoss, he gave [[Captain Sebarial]] his cut, and then held onto the party's payment until he could deliver it to [[Theren]].
 
-Captain Sebarial agreed to pay Jamma's salary for a month in an agreement he made with Theren and [[Nucko]].
+Captain Sebarial agreed to pay Jamma's salary for a month in an agreement he made with Theren and [[Nucko the Button Thief]].
 
 **Fun Facts**
 * Jamma calls Nucko his cousin, but no one really knows if he's actually his cousin. 
