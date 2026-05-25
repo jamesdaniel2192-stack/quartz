@@ -5,4 +5,8 @@
 
 Prawf dedicated her life to the Passions. However the party arrived in Klna at a time where she was starting to doubt her beliefs. In an attempt to prove her beliefs, she made a proclamation; she would give the temple’s perfect gemstone to any who could prove their passion to her. Any candidate needed to both pass the temple’s maze and tell Prawf of their deepest desire before she even considered giving the gemstone.
 
-This lead to [[Stukov]], the city lord of Klna, trying to forcefully take the gem away from Prawf. As a result Prawf was the driving factor behind the uprising in Klna. She helped encourage [[Tasni]] to rebel against the lighteyes of 
+This lead to [[Stukov]], the city lord of Klna, trying to forcefully take the gem away from Prawf. As a result Prawf was the driving factor behind the uprising in Klna. She helped encourage [[Tasni]] to rebel against the lighteyes of the city to help prevent Stukov from trying to steal the gemstone. 
+
+The party met Prawf after the battle of Klna and eventually made their way through her maze and solidified her believe in the passions. They proved they were worthy and so she bestowed the gem to [[Gavlin]]. 
+
+She mentioned that she would also be an ally to the party, but she did mention it would be unlikely that she would ever leave her temple. 
