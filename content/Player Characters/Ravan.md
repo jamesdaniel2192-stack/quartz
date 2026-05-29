@@ -19,5 +19,9 @@
  * Ravan also negotiated with Nale and helped create a deal where [[Nucko the Button Thief]] could get one of Nale's buttons if they were able to get rid of the [[Envisagers]]
 
 **Silnansen**
-* Ravan heard rumors that some of the Parshmen he had rescued earlier had made their way to Silnasen. Unbeknownst to Ravan, his old master [[Dahl]] had taken these 
-* 
+* Ravan heard rumors that some of the Parshmen he had rescued earlier had made their way to Silnasen. Unbeknownst to Ravan, his old master [[Dahl]] had taken these parshmen and directed them to Silnansen
+* As the party arrived, Ravan and the party discovered 20 parshmen corpses that had been desecrated. The party fought off a cremling swarm here, and the warehouse these parshmen were in ended up burning down. Ravan left Silnansen with more questions than were answered. 
+
+**Vedenar**
+* Ravan got peed on by a dude here. That's it - that's the tweet, that just needed to be immortalized forever in our campaign wiki. 
+* Ravan learned that Dahl had taken a ship from Vedenar 
