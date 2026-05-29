@@ -45,4 +45,4 @@
 **Vedenar**
 * Ravan went with the rest of the party back to [[Vedenar]], where he was trying to help Theren get his high prince seat back.
 * He fought in the Veden civil war where he received the nickname "the Bowler" as he used his gravitation surges to literally bowl soldiers into other soldiers. 
-* 
+*  
