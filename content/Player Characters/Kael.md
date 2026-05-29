@@ -73,3 +73,6 @@ Kael has decided to create stone statues of memorable experiences wherever the p
 
 At the docks of Klna - a statue memorial of [[Tasni]] defending the darkeyes from the oppression of the lighteyes: 
 ![[Pasted image 20260525151516.png]]
+
+![[Pasted image 20260529152231.png]]
+On the way to New Natanan - Kael made a statute depicting [[Dblar]] putting the killing blow on a Yu-Nerig
