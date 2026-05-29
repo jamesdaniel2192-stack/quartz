@@ -49,4 +49,6 @@ Nucko is a Lightweaver of the second Ideal - he's bonded to his spren [[Masken]]
 	* During the fight against [[Dahl]] and [[Yelig-Nar]] - Nucko's greatest fear came true; He got a severe burn on his eye from fire, further deepening his fear of fire. 
 * Veden Civil War
 	* Nucko spent a lot of time during the civil war sneaking around and gathering intel for the party. 
-	* During the fight against Theren and [[Nergaoul]] - Nucko was the one who killed his best friend and 
+	* During the fight against Theren and [[Nergaoul]] - Nucko was the one who killed his best friend and released him from the grips of the Thrill. 
+* Klna
+	* Nucko stole his horse, Storm Strider, here. 
