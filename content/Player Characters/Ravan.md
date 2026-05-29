@@ -36,4 +36,10 @@
 	* Dahl began to drain Ravan's blood, and had some philosophical musings with Ravan. Ravan never told Dahl who he was, instead going by the name of Wayfarer. 
 	* Ravan, in a weakened state, was eventually rescued by [[Gavlin]], where the two of them eventually met up with the rest of the party and got in a big fight with the Muffin Man and Dahl. 
 * Dahl took upon himself the unmade, [[Yelig-Nar]], and got in a fight targeting specifically Ravan (as he finally recognized his "old friend"). During the fight Dahl ranted about how Ravan had "ruined everything", "how it wasn't supposed to be like this", and "I was just trying to save you and your people".
+	* During this fight Yelig-Nar cut Ravan's arm off at the shoulder. While he eventually was healed by Gavlin, he did have no arm for a short time. 
 	* Dahl was finally consumed by Yelig-Nar, and all Ravan got was a note on Dahl's person apologizing for the pain he caused, and that he would make it up to him someday. 
+* After the fight with Dahl, [[Captain Sebarial]] tasked the party with stealing from [[King Taravangian]]. Ravan and [[Theren]] planned to distract the king by addressing him directly. They spotted the Muffin Man in the king's chambers, and the distraction broke down quickly. 
+	* That distraction went poorly, as Ravan swore the second ideal of the skybreakers and immediately attacked King Taravangian. 
+	* Theren and Ravan ended up escaping, but not after causing some real havoc in the throne room. 
+
+**Vedenar**
