@@ -30,3 +30,5 @@
 		* Eventually this quest was fulfilled and Nucko received one aluminum button from Nale.
 * Nucko spent a lot of time helping to lead the party to several cities, and eventually helped the party to [[Dumadari]]. 
 	* In Dumadari, Nucko helped the party sneaked down to the docks, where the [[Gavlin]] and [[Theren]] stole a boat and Nucko helped distract [[Marren Vethar]] by creating an illusion of Theren's late father. 
+* Kharbranth
+	* Nucko arrived in Kharbranth and immediately got to work by trying to negotiate with the harbor master for better accommodations and pricing. Nucko 
