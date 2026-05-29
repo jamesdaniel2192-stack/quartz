@@ -18,18 +18,27 @@
 
 **Gavlin Campaign Plot Points**
 
-* Gavlin is the party's resident artifabrian and crafter and has basically crafted everything thus far for the party
-	* [[Kael]] and [[Theren]]'s [[WhiteSpine]] armor
-	* Multiple fabrials
-	* shortbows
-	* etc. 
-* Gavlin is [[Rilano]]'s mentee and rejected his attempts join [[The Diagram]]. 
-* Gavlin swore the first ideal of the Truthwatchers while denying Rilano and saving [[Ravan]]
-	* He bonded [[Glimmer-In-Doubt]], a mistspren.
-* Gavlin is also a co-captain of [[The Wind's Favor]] as he was one of the main individuals who stole the boat with [[Theren]].
-	* Gavlin was instrumental in helping the Wind's Favor sail out of a highstorm and getting the party to [[Kharbranth]] safely. 
-* Gavlin was gifted an entire lab ([[Gavlin's Lab]]) from Rilano as a way to apologize for trying to get Gavlin to go against his morals. 
-* Gavlin was involved in the Veden civil war and tried to help [[Theren]] get his high princedom title back. 
-* Gavlin was kidnapped by [[Captain Sebarial]] to turn in his ''favor" by charging him to get a perfect gemstone from a small costal city named Klna. 
-* Gavlin has been contacted by [[Sja-anat]] to help free one of her "children" from the perfect gemstone in the temple of Klna. She offered him knowledge of one of her siblings, the unmade, in return. She also offered him the opportunity to enlighten Glimmer-in-doubt. 
-* Gavlin once helped [[Nucko the Button Thief]] retrieve his marks pouch in a burning building and was an absolute beast. He walked through flames, intense heat, falling beams like it was nothing. He healed himself constantly through it and walked out without a scratch. 
+> [!INFO]- Expand Gavlin's Campaign History & Achievements
+> * **Party Artifabrian & Crafter:** 
+> 	* Fabricated the majority of the party's current gear.
+> 	* Crafted [[Kael]] and [[Theren]]'s Whitespine armor, multiple custom fabrials, and shortbows.
+> * **The Diagram & Truthwatcher Awakening:**
+> 	* Is [[Rilano]]'s mentee, but successfully rejected his recruitment attempts into The Diagram.
+> 	* Swore the First Ideal of the Truthwatchers while denying Rilano and saving [[Ravan]].
+> 	* Bonded a mistspren named *Glimmer-In-Doubt*.
+> * **Co-Captain of *The Wind's Favor*:**
+> 	* Helped Theren steal the vessel and serves as its co-captain.
+> 	* Instrumentally navigated the ship through a highstorm to bring the party safely to Kharbranth.
+> * **The Research Lab:**
+> 	* Gifted an entire dedicated facility ("Gavlin's Lab") by Rilano as an apology for trying to force him against his morals.
+> * **Veden Civil War:**
+> 	* Tangled in Jah Keved's political strife while attempting to help Theren reclaim his Highprincedom title.
+> * **The Coastal Heist at Klna:**
+> 	* Kidnapped by Captain Sebarial to cash in a "favor," tasked with retrieving a perfect gemstone from the coastal city of Klna.
+> * **Sja-anat's Bargain:**
+> 	* Contacted by the Unmade, [[Sja-anat]], to free one of her "children" from the perfect gemstone in [[Klna]]'s temple.
+> 	* Offered lore regarding one of her sibling Unmade and the opportunity to "enlighten" Glimmer-in-Doubt in exchange for his help.
+> 	* Gavlin accepted the offer to enlighten Glimmer-in-doubt and is now an enlightened Truthwatcher of the first ideal
+> * **The Fire at the Button Thief's:**
+> 	* Assisted Nucko the Button Thief in retrieving his marks pouch from a burning building.
+> 	* Shrugged off intense heat, flames, and falling beams by continuously healing himself, walking out entirely unscathed.
