@@ -51,4 +51,6 @@ Nucko is a Lightweaver of the second Ideal - he's bonded to his spren [[Masken]]
 	* Nucko spent a lot of time during the civil war sneaking around and gathering intel for the party. 
 	* During the fight against Theren and [[Nergaoul]] - Nucko was the one who killed his best friend and released him from the grips of the Thrill. 
 * Klna
-	* Nucko stole his horse, Storm Strider, here. 
+	* Nucko was persuaded by the city lord, [[Stukov]], to let him out of his cage. Nucko was persuaded and took the city lord back to the ship. 
+	* Stukov told Nucko that he would pay him handsomely if he would help him get his city back. Nucko used a span reed to communicate with [[Borash]] and inadvertently convinced Borash to come back to the city early, which caused Borash and his army to take over Klna temporarily. 
+	* Before the fighting at Klna happened, Nucko decided to leave and 
