@@ -53,4 +53,5 @@ Nucko is a Lightweaver of the second Ideal - he's bonded to his spren [[Masken]]
 * Klna
 	* Nucko was persuaded by the city lord, [[Stukov]], to let him out of his cage. Nucko was persuaded and took the city lord back to the ship. 
 	* Stukov told Nucko that he would pay him handsomely if he would help him get his city back. Nucko used a span reed to communicate with [[Borash]] and inadvertently convinced Borash to come back to the city early, which caused Borash and his army to take over Klna temporarily. 
-	* Before the fighting at Klna happened, Nucko decided to leave and 
+	* Before the fighting at Klna happened, Nucko decided to leave and loot the city. He found a horse, did not do a good job putting a saddle on a horse and was subsequently captured by Borash's army. 
+	* Nucko tried to escape by backflipping onto the horse with his bags and items 
