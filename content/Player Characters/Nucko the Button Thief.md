@@ -44,4 +44,9 @@ Nucko is a Lightweaver of the second Ideal - he's bonded to his spren [[Masken]]
 		* Him and Theren cased the factory looking to rob it, and Nucko started flirting with a local ardent named [[Lia]]. The only problem was that Nucko was disguised as [[Jarro]] when he did it - so Lia started developing feelings for Jarro. 
 		* Nucko convinced Lia to meet him at the factory late at night and Lia decided to take that moment to try and seduce Nucko by bedding him on a bed of buttons. Nucko decided to have her stay in that location while he doubled back and robbed the museum. 
 		* It was at this moment that Theren burned the museum down. Nucko and Theren got away with rare buttons and clothing's, but the museum and factory burned down completely. 
-	* The party was tasked by C
+	* At this point Nucko, Theren, and [[Kael]] started to look for Ravan and Gavlin who had gone missing. They tried to sneak into the conclave, where Nucko tried to use illusion to get past the elderly female ardent, [[Luesh]], but they almost killed her in the process. 
+	* Nucko played a great role in robbing [[King Taravangian]]'s copy of the diagram, using his transformation ability to turn floor into water and crashing a passionate couple's night. 
+	* During the fight against [[Dahl]] and [[Yelig-Nar]] - Nucko's greatest fear came true; He got a severe burn on his eye from fire, further deepening his fear of fire. 
+* Veden Civil War
+	* Nucko spent a lot of time during the civil war sneaking around and gathering intel for the party. 
+	* During the fight against Theren and [[Nergaoul]] - Nucko was the one who killed his best friend and 
