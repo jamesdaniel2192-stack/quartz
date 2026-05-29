@@ -30,4 +30,7 @@
 * Ravan learned that Dahl had taken a ship from Vedenar from Kharbranth here.
 
 **Kharbranth**
-* Ravan spent most of his time 
+* Ravan spent most of his time in Kharbranth hunting down leads for Dahl. He eventually stumbled into Dahl when meeting with [[Rilano]] at the conclave in Kharbranth. 
+	* Dahl didn't recognize Ravan (as he was in a different form) and captured Ravan to run tests on. Dahl was trying to use singers to get unique response from [[Moelach]]'s death rattles, and was using Ravan to collect singers for that purpose. 
+	* Dahl began to drain Ravan's blood, and had some philosophical musings with Ravan. Ravan never told Dahl who he was, instead going by the name of Wayfarer. 
+	* Ravan, in a weakened state, was eventually rescued 
