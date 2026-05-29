@@ -89,22 +89,15 @@ Kael didn't hesitate. He seized the Shardblade and, brandishing it like a beacon
 Kael didn't seek a new city; his focus was on restitution. He spent weeks, painstakingly, returning each of the children to their homes, navigating the hidden pathways of Azir and finding the towns and villages they spoke of. Finally, with the last child safely returned, Kael felt an old, familiar pull. He turned his steps towards the only home he had ever known.
 
 He returned to Zawfix, to the familiar, grimy streets of his childhood. He went to his old dwelling, his heart thrumming with a desperate hope. But his mother was not there. An old family friend, a weathered man named Tigzikk, found him outside. With a heavy sigh and downcast eyes, he told him the agonizing truth: "Your father died in the raid to save you.. as you know. Your mother... she learned what happened. She left, Kael. She left in search of you. No one knows where she is Kael… but she said that she would start with Azimir.” 
-
   
-
 The news hit Kael like a physical blow. His mother, gone. Missing, lost, perhaps dead, all because of him. The old guilt, never truly banished, swelled within him. But beneath the pain, a new resolve hardened. He had freed those children. He needed to find his mother, and then, he needed to save Manix. He turned to leave Zawfix once more.
-
   
-
 "Where are you going?" Tigzikk called out, his voice raspy with concern.
-
-  
 
 Kael paused, looking back at the man who had known him since he was a babe. His eyes, though still carrying the weight of his past, held a new, fierce light. Tigzikk could have sworn, just for a moment, that a faint, ethereal glow emanated from him as he uttered his solemn vow:
 
-  
-
 "To free others."
+
 
 
 **Kael Campaign History**
