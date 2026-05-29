@@ -1,6 +1,8 @@
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd2n3quonVBdOWfWDK3E-9Uhc0fahBzHD9Oz6cI4-6_Rv33ymNjrrYe1r4VY9EoTeV0ZQwPUnejmJzLkURS5bS6kWRIRaCgKdAu_yaZGkUhjuAA2UQNF0paw44OvgboIhojByRy?key=i1sd6qmhE4B2DqBd6CXVWA)
 
+**Backstory**
+
 Born into a low-ranking lighteyes family of the 9th dahn within Highprince Aladar's kingdom, Gavlin was expected to follow the traditional Alethi path of military service. From a young age, he was subjected to the rigorous training and cultural pressures that shaped Alethi men into warriors. However, Gavlin was never built for the battlefield. Physically slight and lacking the natural strength of his peers, he often found himself the target of ridicule and scorn. The training grounds were a source of constant humiliation, a stark reminder of his perceived inadequacies.
 
 As he entered his late teens, the weight of these expectations became unbearable. Gavlin knew, deep in his heart, that the life of a soldier was not for him. He yearned for something more, something that engaged his mind rather than his body. Against the prevailing cultural tide, he made the bold decision to abandon the military and dedicate himself to academia. This choice was met with quiet relief and support from his parents, who saw his intelligence and recognized his unhappiness. His older brother, however, viewed Gavlin's decision as an embarrassment to the family name and has since maintained a distant, often disdainful, relationship. His younger brother, a promising soldier, mirrors the older brother's martial prowess, further highlighting Gavlin's divergence.
