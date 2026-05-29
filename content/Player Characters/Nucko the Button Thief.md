@@ -40,4 +40,8 @@ Nucko is a Lightweaver of the second Ideal - he's bonded to his spren [[Masken]]
 * Kharbranth
 	* Nucko arrived in Kharbranth and immediately got to work by trying to negotiate with the harbor master for better accommodations and pricing. Nucko failed an illusion test, but the party still worked out favorable terms
 	* Nucko hired his first cousin, [[Jamma]] here! Jamma originally worked for [[Captain Sebarial]]and for [[Star]], but he was able to hire Jamma away from his old employers. 
-	* 
+	* Nucko found out that Kharbranth had a renowned button factory and museum, so naturally - he had to go
+		* Him and Theren cased the factory looking to rob it, and Nucko started flirting with a local ardent named [[Lia]]. The only problem was that Nucko was disguised as [[Jarro]] when he did it - so Lia started developing feelings for Jarro. 
+		* Nucko convinced Lia to meet him at the factory late at night and Lia decided to take that moment to try and seduce Nucko by bedding him on a bed of buttons. Nucko decided to have her stay in that location while he doubled back and robbed the museum. 
+		* It was at this moment that Theren burned the museum down. Nucko and Theren got away with rare buttons and clothing's, but the museum and factory burned down completely. 
+	* The party was tasked by C
