@@ -24,10 +24,12 @@
 
 **Important Campaign Notes**
 
+Nucko is a Lightweaver of the second Ideal - he's bonded to his spren [[Masken]].
+
 * Nucko had the very first kill in the campaign, performing a sneak attack on an [[Envisagers]] priest. 
 * After the party escaped from the Envsiager hideout, Nucko met [[Nale]] in the [[Glyphpool]] in [[Bavland]]. Nucko tried to steal a button from Nale, but was unsuccessful. 
 	* [[Ravan]] helped Nucko negotiate a quest in which if they defeated the Envsiagers, that Nucko would get one of his buttons. 
-		* Eventually this quest was fulfilled and Nucko received one aluminum button from Nale.
+		* Eventually this quest was fulfilled and Nucko received one aluminum button from Nale
 * Silnasen
 	* Nucko was very busy in Silnasen where he: 
 		* Annoyed a shopkeeper so prolifically, the shopkeeper gave him 5 marks to leave him alone.
@@ -37,4 +39,5 @@
 	* In Vedenar, Nucko learned that his best friend, [[Theren]] was wanted for treason. So he helped the party sneak  down to the docks, where the [[Gavlin]] and [[Theren]] stole a boat and Nucko helped distract [[Marren Vethar]] by creating an illusion of Theren's late father. 
 * Kharbranth
 	* Nucko arrived in Kharbranth and immediately got to work by trying to negotiate with the harbor master for better accommodations and pricing. Nucko failed an illusion test, but the party still worked out favorable terms
-	* Nuc
+	* Nucko hired his first cousin, [[Jamma]] here! Jamma originally worked for [[Captain Sebarial]]and for [[Star]], but he was able to hire Jamma away from his old employers. 
+	* 
