@@ -21,6 +21,7 @@
 **Silnansen**
 * Ravan heard rumors that some of the Parshmen he had rescued earlier had made their way to Silnasen. Unbeknownst to Ravan, his old master [[Dahl]] had taken these parshmen and directed them to Silnansen
 * As the party arrived, Ravan and the party discovered 20 parshmen corpses that had been desecrated. The party fought off a cremling swarm here, and the warehouse these parshmen were in ended up burning down. Ravan left Silnansen with more questions than were answered. 
+* It was here in Silnansen that Ravan also found out that Dahl was never associated with the house Renmurri, and that the house had actually never heard of him. Ravan correctly drew the conclusion that Dahl had been lying to him for years. 
 
 **Vedenar**
 * Ravan got peed on by a dude here. That's it - that's the tweet, that just needed to be immortalized forever in our campaign wiki. 
@@ -33,4 +34,6 @@
 * Ravan spent most of his time in Kharbranth hunting down leads for Dahl. He eventually stumbled into Dahl when meeting with [[Rilano]] at the conclave in Kharbranth. 
 	* Dahl didn't recognize Ravan (as he was in a different form) and captured Ravan to run tests on. Dahl was trying to use singers to get unique response from [[Moelach]]'s death rattles, and was using Ravan to collect singers for that purpose. 
 	* Dahl began to drain Ravan's blood, and had some philosophical musings with Ravan. Ravan never told Dahl who he was, instead going by the name of Wayfarer. 
-	* Ravan, in a weakened state, was eventually rescued 
+	* Ravan, in a weakened state, was eventually rescued by [[Gavlin]], where the two of them eventually met up with the rest of the party and got in a big fight with the Muffin Man and Dahl. 
+* Dahl took upon himself the unmade, [[Yelig-Nar]], and got in a fight targeting specifically Ravan (as he finally recognized his "old friend"). During the fight Dahl ranted about how Ravan had "ruined everything", "how it wasn't supposed to be like this", and "I was just trying to save you and your people".
+	* Dahl was finally consumed by Yelig-Nar, and all Ravan got was a note on Dahl's person apologizing for the pain he caused, and that he would make it up to him someday. 
