@@ -16,7 +16,7 @@
 > 
 > His most ambitious and conscious goal is the creation of a "universal translator" fabrial. This theoretical device would be capable of interpreting and replicating the subtle tones of various spren, offering unprecedented insight into their nature and, by extension, the very fabric of Investiture that permeates the Cosmere. For Gavlin, the success of this grand project would not only solidify his reputation as a renowned Artifabrian but also serve as the ultimate vindication against the doubts that have plagued him since childhood.
 
-**Important Campaign Events**
+**Gavlin Campaign Plot Points**
 
 * Gavlin is the party's resident artifabrian and crafter and has basically crafted everything thus far for the party
 	* [[Kael]] and [[Theren]]'s [[WhiteSpine]] armor
