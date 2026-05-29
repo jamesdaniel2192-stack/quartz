@@ -36,7 +36,8 @@ Nucko is a Lightweaver of the second Ideal - he's bonded to his spren [[Masken]]
 			* After annoying the shopkeeper, Nucko then proceeded to case his shop looking for ways to steal from him again. 
 		* After the party set a warehouse on fire, and fled the city to avoid getting caught, Nucko decided it was prudent to stop for chouta on his way out and left the party to go buy some. 
 * [[Vedenar]]
-	* In Vedenar, Nucko learned that his best friend, [[Theren]] was wanted for treason. So he helped the party sneak  down to the docks, where the [[Gavlin]] and [[Theren]] stole a boat and Nucko helped distract [[Marren Vethar]] by creating an illusion of Theren's late father. 
+	* In Vedenar, Nucko learned that his best friend, [[Theren]] was wanted for treason. So he helped the party sneak down to the docks, where the [[Gavlin]] and [[Theren]] stole a boat and Nucko helped distract [[Marren Vethar]] by creating an illusion of Theren's late father. 
+	* Nucko also swore his first ideal at the Vedenar docsk
 * Kharbranth
 	* Nucko arrived in Kharbranth and immediately got to work by trying to negotiate with the harbor master for better accommodations and pricing. Nucko failed an illusion test, but the party still worked out favorable terms
 	* Nucko hired his first cousin, [[Jamma]] here! Jamma originally worked for [[Captain Sebarial]]and for [[Star]], but he was able to hire Jamma away from his old employers. 
@@ -49,6 +50,7 @@ Nucko is a Lightweaver of the second Ideal - he's bonded to his spren [[Masken]]
 	* During the fight against [[Dahl]] and [[Yelig-Nar]] - Nucko's greatest fear came true; He got a severe burn on his eye from fire, further deepening his fear of fire. 
 * Veden Civil War
 	* Nucko spent a lot of time during the civil war sneaking around and gathering intel for the party. 
+	* Nucko swore his second ideal during this civil war.
 	* During the fight against Theren and [[Nergaoul]] - Nucko was the one who killed his best friend and released him from the grips of the Thrill. 
 * Klna
 	* Nucko was persuaded by the city lord, [[Stukov]], to let him out of his cage. Nucko was persuaded and took the city lord back to the ship. 

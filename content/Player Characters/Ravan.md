@@ -28,4 +28,6 @@
 	* Later, the Muffin Man revealed that this theft was to feed his "family" (which was several whitespines). This arrest caused one of his whitespines (who was sick) to pass away. 
 	* The Muffin man vowed revenge on Ravan because of this. 
 * Ravan learned that Dahl had taken a ship from Vedenar from Kharbranth here.
-* 
+
+**Kharbranth**
+* Ravan spent most of his time 
