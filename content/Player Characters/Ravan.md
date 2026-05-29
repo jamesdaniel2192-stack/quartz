@@ -27,5 +27,5 @@
 * Ravan, by accident, created the most notorious villain of all time here in Kharbranth - [[The Muffin Man]]. The Muffin Man had stolen some muffins from a local shop, and in an attempt to get the local constables away from the party, Ravan directed the constables in the Muffin Man's direction where he was later arrested and tried for theft. 
 	* Later, the Muffin Man revealed that this theft was to feed his "family" (which was several whitespines). This arrest caused one of his whitespines (who was sick) to pass away. 
 	* The Muffin man vowed revenge on Ravan because of this. 
-* Ravan learned that Dahl had taken a ship from Vedenar from Kharbranth
+* Ravan learned that Dahl had taken a ship from Vedenar from Kharbranth here.
 * 
