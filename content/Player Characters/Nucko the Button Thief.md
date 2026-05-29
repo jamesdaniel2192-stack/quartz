@@ -29,8 +29,12 @@
 	* [[Ravan]] helped Nucko negotiate a quest in which if they defeated the Envsiagers, that Nucko would get one of his buttons. 
 		* Eventually this quest was fulfilled and Nucko received one aluminum button from Nale.
 * Silnasen
-	* Nucko 
-* Nucko spent a lot of time helping to lead the party to several cities, and eventually helped the party to [[Dumadari]]. 
-	* In Dumadari, Nucko helped the party sneaked down to the docks, where the [[Gavlin]] and [[Theren]] stole a boat and Nucko helped distract [[Marren Vethar]] by creating an illusion of Theren's late father. 
+	* Nucko was very busy in Silnasen where he: 
+		* Annoyed a shopkeeper so prolifically, the shopkeeper gave him 5 marks to leave him alone.
+			* After annoying the shopkeeper, Nucko then proceeded to case his shop looking for ways to steal from him again. 
+		* After the party set a warehouse on fire, and fled the city to avoid getting caught, Nucko decided it was prudent to stop for chouta on his way out and left the party to go buy some. 
+* [[Vedenar]]
+	* In Vedenar, Nucko learned that his best friend, [[Theren]] was wanted for treason. So he helped the party sneak  down to the docks, where the [[Gavlin]] and [[Theren]] stole a boat and Nucko helped distract [[Marren Vethar]] by creating an illusion of Theren's late father. 
 * Kharbranth
-	* Nucko arrived in Kharbranth and immediately got to work by trying to negotiate with the harbor master for better accommodations and pricing. Nucko failed an illusion test 
+	* Nucko arrived in Kharbranth and immediately got to work by trying to negotiate with the harbor master for better accommodations and pricing. Nucko failed an illusion test, but the party still worked out favorable terms
+	* Nuc
