@@ -54,4 +54,6 @@ Nucko is a Lightweaver of the second Ideal - he's bonded to his spren [[Masken]]
 	* Nucko was persuaded by the city lord, [[Stukov]], to let him out of his cage. Nucko was persuaded and took the city lord back to the ship. 
 	* Stukov told Nucko that he would pay him handsomely if he would help him get his city back. Nucko used a span reed to communicate with [[Borash]] and inadvertently convinced Borash to come back to the city early, which caused Borash and his army to take over Klna temporarily. 
 	* Before the fighting at Klna happened, Nucko decided to leave and loot the city. He found a horse, did not do a good job putting a saddle on a horse and was subsequently captured by Borash's army. 
-	* Nucko tried to escape by backflipping onto the horse with his bags and items 
+	* Nucko tried to escape by backflipping onto the horse with his bags and items, then transforming the soldier into water, but he was only able to transform the soldier's clothes and armor into water - not the soldier himself. 
+		* This same soldier eventually took Nucko's marks and buttons into a house to find new clothes, and it got set on fire.
+		* Nucko ran into the burning building and recovered his buttons quickly, but had to navigate through the house to get his marks. He was unable to do so, until Gavlin came in and was able to retrieve them for him. 
