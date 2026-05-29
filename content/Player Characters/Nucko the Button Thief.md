@@ -25,4 +25,8 @@
 **Important Campaign Notes**
 
 * Nucko had the very first kill in the campaign, performing a sneak attack on an [[Envisagers]] priest. 
-* 
+* After the party escaped from the Envsiager hideout, Nucko met [[Nale]] in the [[Glyphpool]] in [[Bavland]]. Nucko tried to steal a button from Nale, but was unsuccessful. 
+	* [[Ravan]] helped Nucko negotiate a quest in which if they defeated the Envsiagers, that Nucko would get one of his buttons. 
+		* Eventually this quest was fulfilled and Nucko received one aluminum button from Nale.
+* Nucko spent a lot of time helping to lead the party to several cities, and eventually helped the party to [[Dumadari]]. 
+	* In Dumadari, Nucko helped the party sneaked down to the docks, where the [[Gavlin]] and [[Theren]] stole a boat and Nucko helped distract [[Marren Vethar]] by creating an illusion of Theren's late father. 
