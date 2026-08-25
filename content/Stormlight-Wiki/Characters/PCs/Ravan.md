@@ -7,27 +7,83 @@ tags: [character, pc, skybreaker, singer]
 
 # Ravan (Amanrava)
 
-**Also known as:** "Gellis" (front-shop alias), Wayfarer (alias given to the Diagram)
-**Status:** Alive
-**Order:** Skybreaker (First Ideal)
+**Also known as:** "Gellis" (front-shop alias — a Reshy merchant who deals in "fine threads, boutique buttons, custom footwear, and imported Reshy stone mannequin sculptures," which is a lot of nouns for a man who used to be a Parshendi soldier), Wayfarer (the name he gave the Diagram under interrogation, and it stuck)
+**Status:** Alive. Still traveling with the party.
+**Order:** Skybreaker (First Ideal sworn)
 **Spren:** Twoie
-**Former Patron:** [[Dahl (Nico)|Dahl]]
+**Former Patron:** [[Dahl (Nico)|Dahl]] — emphasis on *former*, emphasis on the whole thing being a lie
 
 ## Overview
-A Singer (Parshendi) who shifts forms as needed (dullform, nightform, warform, decayform) to blend in or gain an edge. Deeply driven by a philosophy of justice and a debt owed to his former patron and captor, Dahl.
+Ravan is a Singer — Parshendi, specifically, and proud of it in the specific way people get proud of things the world keeps trying to take away from them — who shifts forms as the situation demands: dullform and nightform to move unseen, decayform to fight (and to need hiding under a secret shop floor, because a Parshendi in decayform strolling through the Kholin War Camps draws exactly the kind of attention the party cannot afford), warform when the math on "I have three Strength right now" stops working out. He is, by his own admission during a magic mirror's forced-honesty gauntlet, driven by pride and a hunger to never be looked down on again — which, for a man whose species spent generations being looked down on by an entire civilization, is less a character flaw than a scar with opinions.
+
+What actually runs him, though, is a private, self-authored code of justice, forged specifically in response to being betrayed by the one person he trusted to define it for him. Ask Ravan what justice means and — as he did, tied to a bed, mid-interrogation, refusing to give his real name to a man draining his blood — he'll tell you: *"It's got more to do with honoring the things that you put out into the world. If you were dear to those, you were being just. And if you break those, then justice comes for you."* He has since applied this philosophy to noble houses, cult leaders, war criminals, and, at least once, an entire arm-wrestling debate about who among the party has the worst Strength score. Justice, it turns out, is very load-bearing for this man.
+
+## Origin
+
+Ravan trained as a Skybreaker under a patron he knew as Dahl — mentor, contact, the person who was supposed to be the fixed point in a life built otherwise on shifting forms and shifting cover stories. That relationship is the wound this entire page keeps returning to.
+
+The first sign something was wrong came via Spanreed: Ravan reached out to his supposed patrons, House Renly (or House Renmuri — the campaign notes disagree with themselves on this one, and frankly so did the Diagram, so we're leaving it messy on purpose), only to be told the house had no record of him and had never employed Parshendi at all. He was, in the space of one conversation, completely disavowed — "officially untethered, ghosted, and full of sorrow," as the record puts it, which is a remarkably dignified way to describe getting stood up by your entire support network.
+
+It got worse before it got better. Under a new form Dahl didn't recognize, Ravan was reintroduced to his old master inside the Kharbranth Conclave — and Dahl responded by having him arrested. Ravan burned Stormlight to rip the manacles off with Division; Dahl countered with a fabrial that drained the Stormlight right back out of him, then let the guards drag Ravan off while his Molotov cocktail (his signature move, apparently) fizzled on a failed roll. What followed was interrogation by a Diagram agent Ravan knows only as "Doll," or, in the private nickname that somehow makes it worse, "Wot" — blood draining, a trolley-problem pitch about sacrificing 100 people to save 90% of Ravan's own, and a demand for his real name. He gave them "Wayfarer" instead, and the lie held. Dahl accepted it, and decided Ravan was too dangerous — and too interesting — to let go. He stayed a prisoner.
+
+The final twist came secondhand, from a retiring off-worlder named Gereh: Dahl has a twin brother, Nico, and the man who trained Ravan had spent years quietly wearing his brother's identity to buy the Diagram political favor inside a noble house. Which means the patron Ravan trusted, the name Ravan swore an oath in front of, and the man who had him arrested and drained for information may not even be who Ravan thought he was to begin with. Ravan has not, as far as this wiki can determine, fully worked out what to do with that. He also thought Dahl was dead. He was wrong about that too — see Key Moments.
+
+## ★ The Skybreaker's Ordeal: A Case Study in How Ravan Defines Himself
+
+If you want the one story that explains Ravan completely, it's this one, and it happens to him strapped to a bed.
+
+Captured in Singer form and hauled into a Diagram holding cell, Ravan was interrogated by Doll — "Wot" — who opened proceedings by draining his blood for study while running a philosophy seminar at the same time, because apparently even the torturers in this campaign have a bit. The pitch: would Ravan sacrifice 100 people to save 90% of his own kind? A pure utilitarian gut-check, delivered mid-bloodletting, from a man who works for an organization that has already run this math on an entire war.
+
+Ravan didn't answer the philosophy question. He answered a different one. Rolling deception hot enough to hold under direct pressure from a man who'd trained him, he refused to give his real name — claimed he was "Wayfarer" instead — and, pressed on what he actually believed, delivered the line that this entire wiki page has been building toward: *"It's got more to do with honoring the things that you put out into the world. If you were dear to those, you were being just. And if you break those, then justice comes for you."* Not law. Not obedience. Not even, particularly, mercy. A debt system, run on integrity, that applies to kings and traitors and old mentors equally.
+
+Dahl believed the lie. He accepted "Wayfarer" as a name and decided the man wearing it was too dangerous — and too promising a Skybreaker prospect — to release, and left him tied to the bed. The rest of the party spent the same night breaking into the Conclave's administrative offices under a fake structural-inspection story to go find him, which is its own farce (see Key Moments), but the important part happened in that cell: a captured, bled-dry man, invented a new name for himself on the spot, and used it to hand his captor a philosophy instead of a confession. Ravan has been "Wayfarer" to the Diagram ever since. He's been Ravan, quietly, more fully than before, to everyone else.
 
 ## Key Moments
-- Swore the First Ideal as a Skybreaker aboard the stolen ship, facing down Captain Star.
-- Captured and interrogated by the Diagram (Doll/Dahl); refused to break, claiming the name "Wayfarer" and articulating his personal code of justice.
-- Discovered his old mentor Dahl faked his death and reappeared alive and dangerous.
-- During the siege of Vedenar, embraced the violence of the Thrill-adjacent battle high — noted he "found that it brought him peace," a thread that hasn't fully resolved.
-- Helped free the trapped spren that became [[Gavlin]]'s Glimmer in Doubt.
-- Currently holds Sabariel's/[[Sebarial]]'s recovered Raysium dagger's history and is raising a mysterious egg gifted by [[Dblar]].
+
+### The Fronts, the Aliases, and the Sheer Audacity
+- Disguised as the Reshy merchant "Gellis," Ravan walked a business pitch — "The Glyph Pool," specializing in fine threads, boutique buttons, custom footwear, and imported Reshy stone mannequin sculptures — straight past a burnt-out war camp clerk named Liss, slid her a 20-mark bribe to fast-track the paperwork, and legally secured the party a 20x20 plot of prime Kholin real estate. Under it: a secret bunker, built by [[Torin|Torin]] and Kael specifically to hide Ravan's decayform, because Parshendi in war regalia tend to draw crowds in an Alethi military camp.
+- Returned to the same clerical office later, still as Gellis, to enroll Kael in the bottom rank of the Alethi dueling circuit — and, unprompted, hyped up Kael and Torin's fighting prowess hard enough that Liss started reconsidering her dating options between the two of them. A Persuasion check with genuine matchmaking side effects.
+- Rolled a natural 20 Persuasion check purely to smooth over Torin's earlier romantic blunder with Liss in front of an off-worlder named Gereh — cleanup duty for someone else's flirting, executed flawlessly.
+- Attempted to intervene in a muffin-theft investigation with the local guards and paid for the muffins using a sword and a bottle of wine. It worked as a distraction. It should not have worked as a distraction. The record notes Ravan may, in this stretch of the campaign, be a better thief than Nucko — a claim Nucko has formally, if good-naturedly, disputed.
+
+### Combat, Powers, and Increasingly Alarming Gravitation Usage
+- Swore the First Ideal as a Skybreaker-in-training aboard a stolen ship, mid-confrontation with Captain Star, and immediately used his first Gravitation surge to try to incapacitate her. She dodged. The Ideal still counted.
+- Pulled off a "Flying Ace" maneuver against a horse-sized White Spine — stood on the ceiling via Gravitation, drove his Shardblade clean through its skull, burned its eyes out, then chucked an infused pen at a second one for good measure. The pen throw was not strictly necessary. It happened anyway.
+- During the siege of Vedenar's walls, single-handedly demolished a company of archers, coining the technique "human bowling" (Gravitation-hurling an archer into his own comrades) and pairing it with Division to turn others straight to ash. Discovered, in the middle of doing this, that it brought him peace and pleasure — a feeling he leaned into rather than away from. This thread has not resolved. It has also not gone away.
+- Used Gravitation to hurl an explosive bomb fabrial into a Diagram formation, then — trying to arm the unarmed Jama mid-battle — threw his own dagger 22 feet across the field on a 17 Premonition check. It hit. It also clipped Jama for collateral damage. Ravan's apology was shouted into the wind and accepted with the grace of a man who'd just been thrown a knife.
+- Threw Chungledown Bim, Sebarial's first mate, into the ocean using a Gravitational Slam, purely because he could. Sebarial responded by grabbing Ravan by the throat and draining his Investiture — again — then making him personally go fish the man back out. This has happened to Ravan on Sebarial's ship more than once. Ravan has never once been told he's not allowed to do it again.
+- **The Final Battle:** in the fight against the demigod Sebarial — a man immune to standard injury, Soulcasting, and physical damage across the board — Nucko sliced Sebarial's utility belt loose with a critical Thievery check, knocking the golden Raysium dagger free. Ravan scooped it out of the air mid-fight, flew it past Sebarial close enough to land a graze, and forced the demigod to burn his one legendary reaction just to survive the pass. Ravan then threw the dagger onward toward Torin. It was Nucko who ended up with it in the chaos that followed, and Nucko who drove it into Sebarial's chest for the kill, trapping the demigod's cognitive shadow in its gemstone for good. **A note on the record, for clarity:** Ravan does not hold the dagger, and never has — Nucko carried it after the battle and handed it to Gavlin on his way out of the party (see Relationships). What Ravan holds is the story: he was the one who touched the blade in the seconds that mattered most, drew first blood with it, and watched the rest happen from a few feet away. If you want the dagger's history recited accurately, he's your man. If you want to hold the dagger, ask Gavlin.
+
+### The Dahl Saga
+- Contacted House Renly by Spanreed looking for his supposed patrons, and was told, flatly, that the house had never employed Parshendi and had no record of him. Officially disavowed by the one institution he thought had his back.
+- Reintroduced to Dahl under an unfamiliar form during a private interview about Singer culture and language, arranged by Gavlin's mentor Rilano — only for Dahl to fail to recognize him, leave the room, and come back with guards. Ravan burned the manacles off with Division; Dahl countered with an anti-Stormlight fabrial and had him hauled away regardless.
+- Endured the interrogation covered under ★ The Skybreaker's Ordeal above — refused his name, gave the Diagram "Wayfarer," and articulated the personal justice philosophy that now defines him.
+- Learned from a retiring off-worlder named Gereh that "Nico," a master servant who's the spitting image of Dahl, is in fact Dahl's actual twin brother — and that Dahl had been impersonating Nico to curry political favor for the Diagram inside a noble house this entire time. The man who trained him has apparently been running an identity con longer than Ravan's known him.
+- Looked across a crowded tavern mid-conversation about hunting Ghostbloods and went completely pale: Dahl — the supposedly dead Sect leader of the Diagram — sitting alive, breathing, and very much in the room. The reveal landed as a literal cliffhanger, right alongside Torin's own blown cover across the same bar. Neither problem has been resolved.
+
+### Spren, Self, and the Occasional Existential Crisis
+- Talked with Twoie about justice and whether immoral leaders deserve it too — a quiet, deliberately unglamorous conversation that nonetheless underwrites everything else on this page.
+- Faced Prawf's Mirror of Passions and admitted, under a truth-forcing illusion, that his deepest desire is to be treated like a "king" — respected worldwide, never looked down on again. The illusion saluted him and dissipated, satisfied. Read: the wound from House Renly and the Diagram didn't heal, it just found new furniture.
+- Contributed a critical Premonition roll to help pool the surge energy that freed the trapped spren who became [[Gavlin]]'s Glimmer in Doubt — present at the birth of an ally who now runs on futuresight partly because Ravan's dice went right at the right moment.
+- Tried to recall ancient Singer rhythms and songs about the Unmade Sja-Anat to gauge how dangerous she really was — and could only reconnect with the basic rhythms, the specific words already lost to him. A small, sad detail about exactly how much of his own culture Ravan has access to anymore.
+- Noted, mid-arm-wrestling-debate, that his current Malat/Decay form caps his Strength at a measly 3 even Enhanced, and that he badly needs to invest in Warform to stop being the party's designated weak link in a fistfight. Character growth, gym-membership division.
+
+### The Party, the Chaos, and the People Ravan Keeps Fixing
+- Pulled a knife out of Nucko's gut after Nucko and Theren extorted a nineteen-year-old girl for ransom money and she, understandably, stabbed him for it. Filed, somehow, under "downtime."
+- Volunteered a personal favor to Sebarial to wipe out Dblar's crushing 11,600-mark debt in one move — which is how Dblar ended up traveling with the party as a guide in the first place. Ravan has been managing the consequences of that decision (a pig, an unhatched egg, several breakdowns) ever since.
+- Sent Dblar out with 50 marks to buy a replacement chicken after Dblar's original bird went missing. Dblar came back with an unhatched egg instead. Ravan is now, apparently permanently, keeping it warm. No one has clarified what's inside. [[Dblar]] has strong opinions about it that nobody has solicited.
+- Swapped out Nucko's successful Stealth roll for his own natural 1 while trying to steal a chicken off an off-worlder named Gereh — sabotaging a friend's heist in real time purely to prove a point about guarding your belongings. The chicken survived. Nucko's ego did not.
+- During Kael's blood-oath confrontation with Nucko over the double-agent reveal, tried to aggressively stab Nucko's hand with a pen mid-ceremony — "overwhelmed with anger and a compulsion for truth" — resulting in a completely missed, entirely comical fistfight across the negotiating table. Justice, occasionally, looks like a pen duel nobody wins.
+- Was present when [[Nucko]] said his actual goodbye. After Theren and Kael's deaths finally caught up with him, Nucko sat down with Torin, Gavlin, and Ravan for a real farewell — no disguise, no vanishing act — and handed Gavlin the Raysium dagger he'd used to end Sebarial before walking off down the road with [[Vesper (Blue)|Vesper]] to go dismantle the Ghostbloods from the outside. Ravan was one of only three people who got that conversation.
 
 ## Relationships
-- [[Dahl (Nico)|Dahl]] — former mentor and patron, now an adversary
-- [[Gavlin]] — close collaborator on fabrial/spren work
-- [[Jernah, Halidar, and Melania|Jernah]] — interrogated on behalf of [[Nucko]]
+- [[Dahl (Nico)|Dahl]] — former mentor and patron turned captor, interrogator, and possible identity thief (see Nico). Presumed dead, then found very much alive, seated in a war camp tavern, mid-conversation. Unresolved does not begin to cover it.
+- [[Gavlin]] — closest collaborator on fabrial and spren work, present for Glimmer in Doubt's freeing, and now the actual keeper of the Raysium dagger Ravan helped pry loose in the final battle against Sebarial.
+- [[Jernah, Halidar, and Melania|Jernah]] — interrogated on [[Nucko]]'s behalf regarding his parents' killers; also the source of the Cosmere lore confirming Sebarial's true nature as a Returned demigod from Nalthis.
+- [[Dblar]] — the guide Ravan effectively bought free from an 11,600-mark debt, and the man responsible for both the egg currently living under Ravan's care and a genuinely staggering amount of downtime chaos.
+- [[Torin]] — front-shop business partner ("Joran" to Ravan's "Gellis"), fellow architect of the secret bunker built specifically to hide Ravan's decayform, and one of the three the party trusted with Nucko's real goodbye.
+- [[Nucko]] — party's other resident hothead, mutual chaos enabler, and the man Ravan once tried to stab with a pen mid-blood-oath. Also the one who actually drove the Raysium dagger home and later gave it to Gavlin — a detail Ravan, present for the whole fight, can confirm firsthand.
+- [[Sebarial]] *(deceased)* — a man Ravan was, for a time, explicitly forbidden from even naming on his own quest, because the two "absolutely despise each other." Repeatedly throat-grabbed and Investiture-drained by him personally. Helped end him anyway.
 
 ## Related
 - [[The Diagram]]

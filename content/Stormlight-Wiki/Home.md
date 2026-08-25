@@ -5,10 +5,10 @@ tags: [home]
 
 # Stormlight RPG — Campaign Wiki
 
-Welcome to the wiki for our Stormlight RPG campaign. Session-by-session recaps live in the Discord `campaign-history` channel — this wiki is for everything *else*: who's who, what's where, and what's still unresolved.
+Welcome, survivor, to the master file. Session-by-session recaps live in the Discord `campaign-history` channel, where the raw chaos is preserved in all its unedited glory — this wiki exists for everything *else*: who's who, what's where, who's dead, who's departed, and what's still out there waiting to ruin somebody's week. Consult it before you trust anyone.
 
 ## Player Characters
-- [[Nucko]]
+- [[Nucko]] *(departed)*
 - [[Theren]] *(deceased)*
 - [[Kael]] *(deceased)*
 - [[Gavlin]]
