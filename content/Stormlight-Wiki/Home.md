@@ -36,6 +36,30 @@ Welcome, survivor, to the master file. Session-by-session recaps live in the Dis
 - [[Gereh]]
 - [[Stukov]] *(deceased)*
 - [[Jernah, Halidar, and Melania]]
+- [[Bob]] *(stub)*
+- [[Borash]]
+- [[Chungledown Bimm]]
+- [[Elara]]
+- [[Ishren Son Kez]]
+- [[Jasnah Kholin]]
+- [[King Taravangian]]
+- [[Luesh]] *(stub)*
+- [[Mirad]] *(stub)*
+- [[Old Jeber]]
+- [[Old Young Jeber]]
+- [[Young Jeber]]
+- [[Prawf]]
+- [[Shallan Devar]]
+- [[Star]]
+- [[Tann]]
+- [[Tasni]] *(deceased)*
+- [[Tink]] *(deceased)*
+- [[Torash]] *(stub)*
+
+## Animal Companions
+- [[Flick]] — Torin's ferret, first confirmed kill of the campaign
+- [[Handsy]] — Kael's axehound, unwitting cult icon of the [[Church of the Yips]]
+- [[Shield]] — Torin's Ryshadium, a very good boy
 
 ## Factions
 - [[The Envisagers]]
