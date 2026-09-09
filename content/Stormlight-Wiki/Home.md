@@ -11,9 +11,11 @@ Welcome, survivor, to the master file. Session-by-session recaps live in the Dis
 - [[Nucko]] *(departed)*
 - [[Theren]] *(deceased)*
 - [[Kael]] *(deceased)*
-- [[Gavlin]]
+- [[Gavlin]] *(currently captured — see [[Open Threads]])*
 - [[Ravan]]
 - [[Torin]]
+- [[Keth]]
+- [[Mel]]
 
 ## Key NPCs
 - [[Sebarial]] *(deceased)* — main antagonist for most of the campaign's back half
@@ -36,10 +38,12 @@ Welcome, survivor, to the master file. Session-by-session recaps live in the Dis
 - [[Gereh]]
 - [[Stukov]] *(deceased)*
 - [[Jernah, Halidar, and Melania]]
+- [[Bitsy]] *(stub)*
 - [[Bob]] *(stub)*
 - [[Borash]]
 - [[Chungledown Bimm]]
 - [[Elara]]
+- [[Ervel]] — Odium's emissary; currently holds [[Gavlin]] captive
 - [[Ishren Son Kez]]
 - [[Jasnah Kholin]]
 - [[King Taravangian]]
@@ -53,8 +57,10 @@ Welcome, survivor, to the master file. Session-by-session recaps live in the Dis
 - [[Star]]
 - [[Tann]]
 - [[Tasni]] *(deceased)*
+- [[Teal]] — Keth's truthless Shin companion
 - [[Tink]] *(deceased)*
 - [[Torash]] *(stub)*
+- [[Veth]] *(fate contested — see his own page)*
 
 ## Animal Companions
 - [[Flick]] — Torin's ferret, first confirmed kill of the campaign
